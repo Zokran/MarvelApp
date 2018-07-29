@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_characters"
+        android:icon="@drawable/ic_character"
+        android:title="@string/navigation_title_characters" />
+
+    <item
+        android:id="@+id/navigation_comics"
+        android:icon="@drawable/ic_comic"
+        android:title="@string/navigation_title_comic" />
+
+    <item
+        android:id="@+id/navigation_series"
+        android:icon="@drawable/ic_series"
+        android:title="@string/navigation_title_series" />
+
+    <item
+        android:id="@+id/navigation_creators"
+        android:icon="@drawable/ic_creator"
+        android:title="@string/navigation_title_creators" />
+
+    <item
+        android:id="@+id/navigation_events"
+        android:icon="@drawable/ic_event"
+        android:title="@string/navigation_title_events" />
+
+    <item
+        android:id="@+id/navigation_stories"
+        android:icon="@drawable/ic_stories"
+        android:title="@string/navigation_title_stories" />
+</menu>
